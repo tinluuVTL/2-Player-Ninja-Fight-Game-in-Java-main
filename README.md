@@ -1,4 +1,5 @@
 # 2 Player Ninja Fight Game in Java
+# 📢📢 Download and extract the file game2.nar
 This a small 28MB desktop game made in Java. It uses object oriented programming principles. 
 
 Player keyboard controls are as follows:
